@@ -2,7 +2,4 @@
 
 Hi!
 Hello
-
 ## Sub Header
-
-Hola!
